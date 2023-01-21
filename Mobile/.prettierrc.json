@@ -1,0 +1,12 @@
+{
+  "semi": false,
+  "overrides": [
+    {
+      "files": ["*.tsx", "*.ts"],
+      "options": {
+        "semi": true,
+        "singleQuote": true
+      }
+    }
+  ]
+}
